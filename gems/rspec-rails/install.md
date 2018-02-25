@@ -1,3 +1,5 @@
+See https://github.com/rspec/rspec-rails
+
 ```
 # Add to Gemfile:
 group :development, :test do
